@@ -8,7 +8,7 @@ import static java.lang.Integer.MAX_VALUE;
 
 public class $ {
 	public static void main(String[] args) {
-		
+		System.out.println("Test");
 		String str[] = {"-", "A", "."};
 		String $ = "";
 		for (int i = 0; ++i < str.length;) {
